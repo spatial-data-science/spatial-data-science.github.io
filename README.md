@@ -1,4 +1,4 @@
-# Spatial Data Science across Languages
+# Spatial Data Science across Languages workshops
 
 The ‘Spatial Data Science across Languages’ (SDSL) workshops provide a space for bridging the 
 communities and establishing cross-language interaction between developers and users.
@@ -13,4 +13,4 @@ synchronise the development efforts.
 
 ## Discord 
 
-SDSL has a Discord server for discussions and communication during the workshops. Please join via https://discord.gg/HJRKEJsmrr.
+SDSL has a Discord server for discussions and communication during the workshops. Please join via <https://discord.gg/HJRKEJsmrr>.
