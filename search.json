@@ -11,20 +11,34 @@
     "href": "index.html",
     "title": "Spatial Data Science across Languages Community",
     "section": "",
-    "text": "TBD"
+    "text": "The Spatial Data Science across Languages Community brings together developers and users from the common and emerging programming languages used for spatial data science.\nSpatial data science (SDS) concerns the analysis of spatial data in various contexts. We focus broadly on geospatial and geographic space, with some applications to general image spaces, local reference frames - everything from microscopical to astronomical space.\nOpen source programming languages commonly used in spatial data science for analysis include Python, R and Julia. Our community is also interested in JavaScript and TypeScript, C++ and Rust. These languages are used by millions of users on a daily basis to solve spatial data problems, visualise and analyse spatial data.\nA number of the challenges that we face transcend the particular programming languages. Such challenges range from: the interpretation of the underlying data; the way the data are represented in computers; visualisation; scalability and efficiency of implementations; the use of upstream libraries like GDAL, GEOS and PROJ, GIS interfaces; software distribution; and open source software community building.\nThe Spatial Data Science Across Language Community aims to bring developers and users together to help build understanding and solve common problems, as well as discussing problems specific to particular language communities."
+  },
+  {
+    "objectID": "index.html#annual-workshop",
+    "href": "index.html#annual-workshop",
+    "title": "Spatial Data Science across Languages Community",
+    "section": "Annual Workshop",
+    "text": "Annual Workshop\nOur main activity since 2023 has been a series of annual workshops, which provide a space for bridging the various programming-language communities and establishing cross-language interaction between developers and users.\nMore details about our workshops"
+  },
+  {
+    "objectID": "index.html#discord",
+    "href": "index.html#discord",
+    "title": "Spatial Data Science across Languages Community",
+    "section": "Discord",
+    "text": "Discord\nSDSL has a Discord server for discussions and communication during the workshops. Please join via https://discord.gg/HJRKEJsmrr."
   },
   {
     "objectID": "governance.html",
     "href": "governance.html",
     "title": "Governance",
     "section": "",
-    "text": "TBD"
+    "text": "Our governance documentation is under development at spatial-data-science/governance"
   },
   {
     "objectID": "workshops.html",
     "href": "workshops.html",
     "title": "Workshops",
     "section": "",
-    "text": "Workshops\nThe ‘Spatial Data Science across Languages’ (SDSL) workshops provide a space for bridging the communities and establishing cross-language interaction between developers and users. SDSL seeks to bring together the communities from the common and emerging programming languages used for data science such as R, Python and Julia, to discuss interoperability, methodological developments, and shared challenges such as interfacing upstream libraries (including GDAL, GEOS, and PROJ), packaging and distributing software, and managing user and developer communities.\nThe SDSL workshops aim to identify commonalities and differences between spatial data science languages, to bridge language barriers and to bring the different communities together to discuss, cooperate, and synchronise the development efforts.\n\n   SDSL 2023 - Münster, Germany     SDSL 2024 - Prague, Czechia     SDSL 2025 - Salzburg, Austria"
+    "text": "Workshops\nThe ‘Spatial Data Science across Languages’ (SDSL) workshops provide a space for bridging the communities and establishing cross-language interaction between developers and users. SDSL seeks to bring together the communities from the common and emerging programming languages used for data science such as R, Python and Julia, to discuss interoperability, methodological developments, and shared challenges such as interfacing upstream libraries (including GDAL, GEOS, and PROJ), packaging and distributing software, and managing user and developer communities.\nThe SDSL workshops aim to identify commonalities and differences between spatial data science languages, to bridge language barriers and to bring the different communities together to discuss, cooperate, and synchronise the development efforts.\n\n2026 - to be announced\nCurrently planning for September 2026.\n\n\n2025 - Salzburg, Austria\n\n  \n\n © Jiuguang Wang 2011 CC-BY-SA 3.0 \n\n\n\n\n2024 - Prague, Czechia\n\n  \n\n © Jim Linwood 2008 CC-BY 2.0 \n\n\n\n\n2023 - Münster, Germany\n\n  \n\n © Oxfordian Kissuth 2011 CC-BY-SA 3.0"
   }
 ]
