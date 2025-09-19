@@ -1,7 +1,10 @@
 ---
-title: "Spatial Data Science across Languages Community"
+# title: "Spatial Data Science across Languages Community"
 layout: article
+toc: false
 ---
+
+![](img/sdsl-logo.svg)
 
 The Spatial Data Science across Languages Community brings together developers and
 users from the common and emerging programming languages used for spatial data
@@ -24,9 +27,11 @@ and efficiency of implementations; the use of upstream libraries like GDAL, GEOS
 and PROJ, GIS interfaces; software distribution; and open source software
 community building.
 
-The **Spatial Data Science Across Language Community** aims to bring developers
+The **Spatial Data Science Across Languages Community** aims to bring developers
 and users together to help build understanding and solve common problems, as
 well as discussing problems specific to particular language communities.
+
+
 
 ## Annual Workshop
 

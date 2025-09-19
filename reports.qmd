@@ -2,4 +2,29 @@
 title: "Reports"
 ---
 
-The report from the SDSL workshops 2023 and 2024 has been published as an academic paper available from <https://arxiv.org/abs/2503.16686>. 
+## Spatial Data Science Languages: Commonalities and Needs
+
+The report from the SDSL workshops 2023 and 2024 has been published as an academic paper available from <https://arxiv.org/abs/2503.16686>.
+
+_Pebesma, E., Fleischmann, M., Parry, J., Nowosad, J., Graser, A., Dunnington, D., Pronk, M., Schouten, R., Lovelace, R., Appel, M., Abad, L., 2025. Spatial Data Science Languages: commonalities and needs. https://doi.org/10.48550/arXiv.2503.16686_
+
+> Recent workshops brought together several developers, educators and users of software packages extending popular languages for spatial data handling, with a primary focus on R, Python and Julia. Common challenges discussed included handling of spatial or spatio-temporal support, geodetic coordinates, in-memory vector data formats, data cubes, inter-package dependencies, packaging upstream libraries, differences in habits or conventions between the GIS and physical modelling communities, and statistical models. The following set of insights have been formulated: (i) considering software problems across data science language silos helps to understand and standardise analysis approaches, also outside the domain of formal standardisation bodies; (ii) whether attribute variables have block or point support, and whether they are spatially intensive or extensive has consequences for permitted operations, and hence for software implementing those; (iii) handling geometries on the sphere rather than on the flat plane requires modifications to the logic of simple features, (iv) managing communities and fostering diversity is a necessary, on-going effort, and (v) tools for cross-language development need more attention and support.
+
+```bibtex
+@misc{pebesma2025Spatial,
+  title = {Spatial {{Data Science Languages}}: Commonalities and Needs},
+  shorttitle = {Spatial {{Data Science Languages}}},
+  author = {Pebesma, Edzer and Fleischmann, Martin and Parry, Josiah and Nowosad, Jakub and Graser, Anita and Dunnington, Dewey and Pronk, Maarten and Schouten, Rafael and Lovelace, Robin and Appel, Marius and Abad, Lorena},
+  year = {2025},
+  month = mar,
+  number = {arXiv:2503.16686},
+  eprint = {2503.16686},
+  primaryclass = {stat},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.2503.16686},
+  urldate = {2025-09-19},
+  abstract = {},
+  archiveprefix = {arXiv},
+  keywords = {Computer Science - Programming Languages,Statistics - Computation}
+}
+```

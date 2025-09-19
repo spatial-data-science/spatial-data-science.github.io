@@ -1,10 +1,14 @@
 project:
   type: website
+  resources:
+    - img/*
 
 
 website:
   title: "Spatial Data Science across Languages"
   navbar:
+    title: false
+    logo: img/sdsl-logo.png
     repo-actions: [issue]
     left:
       - href: index.qmd
