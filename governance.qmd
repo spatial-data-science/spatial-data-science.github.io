@@ -2,4 +2,5 @@
 title: "Governance"
 ---
 
-TBD
+Our governance documentation is under development at
+[`spatial-data-science/governance`](https://github.com/spatial-data-science/governance)

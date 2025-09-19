@@ -3,4 +3,40 @@ title: "Spatial Data Science across Languages Community"
 layout: article
 ---
 
-TBD
+The Spatial Data Science across Languages Community brings together developers and
+users from the common and emerging programming languages used for spatial data
+science.
+
+Spatial data science (SDS) concerns the analysis of spatial data in various contexts.
+We focus broadly on geospatial and geographic space, with some applications to general
+image spaces, local reference frames - everything from microscopical to astronomical space.
+
+Open source programming languages commonly used in spatial data science for
+analysis include Python, R and Julia. Our community is also interested in
+JavaScript and TypeScript, C++ and Rust. These languages are used by millions of
+users on a daily basis to solve spatial data problems, visualise and analyse
+spatial data.
+
+A number of the challenges that we face transcend the particular programming
+languages. Such challenges range from: the interpretation of the underlying
+data; the way the data are represented in computers; visualisation; scalability
+and efficiency of implementations; the use of upstream libraries like GDAL, GEOS
+and PROJ, GIS interfaces; software distribution; and open source software
+community building.
+
+The **Spatial Data Science Across Language Community** aims to bring developers
+and users together to help build understanding and solve common problems, as
+well as discussing problems specific to particular language communities.
+
+## Annual Workshop
+
+Our main activity since 2023 has been a series of annual workshops, which
+provide a space for bridging the various programming-language communities and
+establishing cross-language interaction between developers and users.
+
+[More details about our workshops](/workshops.html)
+
+## Discord
+
+SDSL has a Discord server for discussions and communication during the
+workshops. Please join via <https://discord.gg/HJRKEJsmrr>.
