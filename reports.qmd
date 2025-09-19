@@ -1,0 +1,5 @@
+---
+title: "Reports"
+---
+
+The report from the SDSL workshops 2023 and 2024 has been published as an academic paper available from <https://arxiv.org/abs/2503.16686>. 

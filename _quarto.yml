@@ -1,0 +1,29 @@
+project:
+  type: website
+
+
+website:
+  title: "Spatial Data Science across Languages"
+  navbar:
+    repo-actions: [issue]
+    left:
+      - href: index.qmd
+        text: Home
+      - workshops.qmd
+      - reports.qmd
+      - governance.qmd
+  page-footer:
+    center:
+      - text: "Copyright 2025, SDSL Community"
+    right:
+      - icon: github
+        href: "https://github.com/spatial-data-science"
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles.css
+    toc: true
+
+
+
