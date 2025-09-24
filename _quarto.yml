@@ -8,7 +8,7 @@ website:
   title: "Spatial Data Science across Languages"
   navbar:
     title: false
-    logo: img/sdsl-logo.png
+    logo: img/sdsl-logo-small.png
     repo-actions: [issue]
     left:
       - href: index.qmd
