@@ -11,9 +11,21 @@ The SDSL workshops aim to identify commonalities and differences between spatial
 to bridge language barriers and to bring the different communities together to discuss, cooperate, and
 synchronise the development efforts.
 
-### 2026 - to be announced
+### [2026 - Jena, Germany](https://spatial-data-science.github.io/2026/)
 
-Currently planning for September 2026.
+<figure>
+  <a href="https://spatial-data-science.github.io/2026/">
+    <img
+      alt="Jena skyline"
+      src="public/jena.jpg"
+      width="320px"
+       style="border-radius:50%;"
+      />
+  </a>
+  <figcaption><small>
+    <a style="color: #ccc;" href="https://commons.wikimedia.org/w/index.php?curid=9576692">Henry Mühlpfordt CC BY-SA 3.0, </a>
+  </small></figcaption>
+</figure>
 
 ### [2025 - Salzburg, Austria](https://spatial-data-science.github.io/2025/)
 
