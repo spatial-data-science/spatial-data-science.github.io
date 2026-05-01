@@ -14,6 +14,48 @@
     "text": "The report from the SDSL workshops 2023 and 2024 has been published as an academic paper available from https://arxiv.org/abs/2503.16686.\nPebesma, E., Fleischmann, M., Parry, J., Nowosad, J., Graser, A., Dunnington, D., Pronk, M., Schouten, R., Lovelace, R., Appel, M., Abad, L., 2025. Spatial Data Science Languages: commonalities and needs. https://doi.org/10.48550/arXiv.2503.16686\n\nRecent workshops brought together several developers, educators and users of software packages extending popular languages for spatial data handling, with a primary focus on R, Python and Julia. Common challenges discussed included handling of spatial or spatio-temporal support, geodetic coordinates, in-memory vector data formats, data cubes, inter-package dependencies, packaging upstream libraries, differences in habits or conventions between the GIS and physical modelling communities, and statistical models. The following set of insights have been formulated: (i) considering software problems across data science language silos helps to understand and standardise analysis approaches, also outside the domain of formal standardisation bodies; (ii) whether attribute variables have block or point support, and whether they are spatially intensive or extensive has consequences for permitted operations, and hence for software implementing those; (iii) handling geometries on the sphere rather than on the flat plane requires modifications to the logic of simple features, (iv) managing communities and fostering diversity is a necessary, on-going effort, and (v) tools for cross-language development need more attention and support.\n\n@misc{pebesma2025Spatial,\n  title = {Spatial {{Data Science Languages}}: Commonalities and Needs},\n  shorttitle = {Spatial {{Data Science Languages}}},\n  author = {Pebesma, Edzer and Fleischmann, Martin and Parry, Josiah and Nowosad, Jakub and Graser, Anita and Dunnington, Dewey and Pronk, Maarten and Schouten, Rafael and Lovelace, Robin and Appel, Marius and Abad, Lorena},\n  year = {2025},\n  month = mar,\n  number = {arXiv:2503.16686},\n  eprint = {2503.16686},\n  primaryclass = {stat},\n  publisher = {arXiv},\n  doi = {10.48550/arXiv.2503.16686},\n  urldate = {2025-09-19},\n  abstract = {},\n  archiveprefix = {arXiv},\n  keywords = {Computer Science - Programming Languages,Statistics - Computation}\n}"
   },
   {
+    "objectID": "award.html",
+    "href": "award.html",
+    "title": "Lorena Abad Crespo Award for Innovation in Spatial Data Science",
+    "section": "",
+    "text": "The Lorena Abad Crespo Award for Innovation in Spatial Data Science is awarded annually by the SDSL Community to individuals who have brought significant innovation to open spatial data science. It honours those who have pushed the boundaries of open source software for SDS and offered their ideas transformed into tools to the wider community."
+  },
+  {
+    "objectID": "award.html#lorena-cristina-abad-crespo",
+    "href": "award.html#lorena-cristina-abad-crespo",
+    "title": "Lorena Abad Crespo Award for Innovation in Spatial Data Science",
+    "section": "Lorena Cristina Abad Crespo",
+    "text": "Lorena Cristina Abad Crespo\n\n\n\n\nLorena Cristina Abad Crespo\n\n\n\nLorena Abad Crespo was one of the core members of the SDSL Community since its inception, co-author of the first report, and a main organiser of SDSL Workshop 2025 in Salzburg. Before we were able to meet in Salzburg, Lorena’s life was cut short in a traffic collision. This award honours Lorena’s life, spirit, and contributions to SDS.\nLorena was born in Ecuador and studied environmental engineering at the University of Cuenca. Afterward, she obtained an Erasmus Mundus scholarship and received a Master’s degree in Geospatial Technologies from the programme offered by universities in Lisbon, Castellón, and Münster. That is when she got involved in open source development, with R being her language of choice. After graduating, she moved to the University of Salzburg, where she later started her PhD. She was consistently pushing the boundaries of spatial data science and GIS by breaking away from constraints of common data structures and inventing new ways of managing and analysing data. Her work on vector data cubes has changed the meaning of the concept and transcended from R to Python and Julia. An avid supporter of open science, she encouraged everyone to do the right thing and to share their knowledge and ideas with the world. In doing so, she became a role model for others.\nShe was not only a sharp developer and a thoughtful scientist but primarily a wonderful human being. It was Lorena who opened her heart to all, spread optimism and passion, and strived to create a better world for everyone. She was there for those who loved her, for friends, and for the entire community.\nThose who follow in her footsteps are those to be awarded."
+  },
+  {
+    "objectID": "award.html#scope",
+    "href": "award.html#scope",
+    "title": "Lorena Abad Crespo Award for Innovation in Spatial Data Science",
+    "section": "Scope",
+    "text": "Scope\nThe SDSL Community aims to remember Lorena’s legacy by awarding those who share her spirit for openness and innovation, as well as exceptional attention for detail. We value new perspectives, new ideas, and models that can be of value to the wider spatial data science community.\nThe Award is given to individuals or groups who have developed innovative solutions for open spatial data science and turned them into reusable tools released under a permissive OSI-approved license. Typically, these are software packages written in R, Python, Julia, or other languages. They not only contain innovative code but also provide high-quality documentation to teach others, while fostering a welcoming environment for new contributors. However, the scope is not restricted to software, and other contributions (e.g. community management, or training) may also be considered. We especially welcome submissions from those belonging to traditionally underrepresented groups and from young researchers.\nThe submissions that are within the scope for the Award shall be published no earlier than three years prior to the Call for Nominations being open. That means that for the Award given in 2026, with the Call opening in May 2026, the contributions within the scope were published between May 2023 and May 2026."
+  },
+  {
+    "objectID": "award.html#selection-process",
+    "href": "award.html#selection-process",
+    "title": "Lorena Abad Crespo Award for Innovation in Spatial Data Science",
+    "section": "Selection process",
+    "text": "Selection process\nThe Call for Nominations will be opened yearly for a month to gather nominations for the Award from the SDSL community and beyond.\nThe nominations will be evaluated by the SDSL Steering Committee, and the winner will be chosen by the Committee’s consensus.\n\n\n\n\n\n\nTipNominations are open\n\n\n\nThe nominations for 2026 Award are open. Please submit your nominations using the nomination form by the end of May 2026."
+  },
+  {
+    "objectID": "award.html#winner",
+    "href": "award.html#winner",
+    "title": "Lorena Abad Crespo Award for Innovation in Spatial Data Science",
+    "section": "Winner",
+    "text": "Winner\nThe winner will be announced at the annual SDSL Workshop, receive a certificate and a mention on the SDSL website. A travel stipend, when available, will be awarded to the winner(s) of the award to attend the Workshop."
+  },
+  {
+    "objectID": "governance.html",
+    "href": "governance.html",
+    "title": "Governance",
+    "section": "",
+    "text": "Our governance documentation is under development at spatial-data-science/governance"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Spatial Data Science across Languages",
@@ -35,17 +77,10 @@
     "text": "Discord\nSDSL has a Discord server for discussions and communication during the workshops. Please join via https://discord.gg/HJRKEJsmrr."
   },
   {
-    "objectID": "governance.html",
-    "href": "governance.html",
-    "title": "Governance",
-    "section": "",
-    "text": "Our governance documentation is under development at spatial-data-science/governance"
-  },
-  {
     "objectID": "workshops.html",
     "href": "workshops.html",
     "title": "Workshops",
     "section": "",
-    "text": "Workshops\nThe ‘Spatial Data Science across Languages’ (SDSL) workshops provide a space for bridging the communities and establishing cross-language interaction between developers and users. SDSL seeks to bring together the communities from the common and emerging programming languages used for data science such as R, Python and Julia, to discuss interoperability, methodological developments, and shared challenges such as interfacing upstream libraries (including GDAL, GEOS, and PROJ), packaging and distributing software, and managing user and developer communities.\nThe SDSL workshops aim to identify commonalities and differences between spatial data science languages, to bridge language barriers and to bring the different communities together to discuss, cooperate, and synchronise the development efforts.\n\n2026 - to be announced\nCurrently planning for September 2026.\n\n\n2025 - Salzburg, Austria\n\n  \n\n © Jiuguang Wang 2011 CC-BY-SA 3.0 \n\n\n\n\n2024 - Prague, Czechia\n\n  \n\n © Jim Linwood 2008 CC-BY 2.0 \n\n\n\n\n2023 - Münster, Germany\n\n  \n\n © Oxfordian Kissuth 2011 CC-BY-SA 3.0"
+    "text": "Workshops\nThe ‘Spatial Data Science across Languages’ (SDSL) workshops provide a space for bridging the communities and establishing cross-language interaction between developers and users. SDSL seeks to bring together the communities from the common and emerging programming languages used for data science such as R, Python and Julia, to discuss interoperability, methodological developments, and shared challenges such as interfacing upstream libraries (including GDAL, GEOS, and PROJ), packaging and distributing software, and managing user and developer communities.\nThe SDSL workshops aim to identify commonalities and differences between spatial data science languages, to bridge language barriers and to bring the different communities together to discuss, cooperate, and synchronise the development efforts.\n\n2026 - Jena, Germany\n\n  \n\n Henry Mühlpfordt CC BY-SA 3.0,  \n\n\n\n\n2025 - Salzburg, Austria\n\n  \n\n © Jiuguang Wang 2011 CC-BY-SA 3.0 \n\n\n\n\n2024 - Prague, Czechia\n\n  \n\n © Jim Linwood 2008 CC-BY 2.0 \n\n\n\n\n2023 - Münster, Germany\n\n  \n\n © Oxfordian Kissuth 2011 CC-BY-SA 3.0"
   }
 ]
