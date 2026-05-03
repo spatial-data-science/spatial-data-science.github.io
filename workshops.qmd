@@ -17,7 +17,7 @@ synchronise the development efforts.
   <a href="https://spatial-data-science.github.io/2026/">
     <img
       alt="Jena skyline"
-      src="public/jena.jpg"
+      src="public/jena.JPG"
       width="320px"
        style="border-radius:50%;"
       />
