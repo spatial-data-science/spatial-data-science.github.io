@@ -20,16 +20,16 @@ website:
       - governance.qmd
   page-footer:
     center:
-      - text: "Copyright 2025, SDSL Community"
+      - text: "Copyright 2025-, SDSL Community"
     right:
       - icon: github
         href: "https://github.com/spatial-data-science"
-  announcement:
-    icon: trophy
-    dismissable: true
-    content: "Nominations for the [Lorena Abad Crespo Award for Innovation in Spatial Data Science](award.qmd) are now open. [Nominate](https://docs.google.com/forms/d/e/1FAIpQLSeG_rb8Zldf-HQ_WCDhWYM2qp4NAmoGZHWXPItXQ_k2LcycVA/viewform?usp=dialog) someone!"
-    type: primary
-    position: below-navbar
+  # announcement:
+  #   icon: trophy
+  #   dismissable: true
+  #   content: "Nominations for the [Lorena Abad Crespo Award for Innovation in Spatial Data Science](award.qmd) are now open. [Nominate](https://docs.google.com/forms/d/e/1FAIpQLSeG_rb8Zldf-HQ_WCDhWYM2qp4NAmoGZHWXPItXQ_k2LcycVA/viewform?usp=dialog) someone!"
+  #   type: primary
+  #   position: below-navbar
 
 format:
   html:

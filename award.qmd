@@ -4,11 +4,11 @@ title: "Lorena Abad Crespo Award for Innovation in Spatial Data Science"
 
 The Lorena Abad Crespo Award for Innovation in Spatial Data Science is awarded annually by the SDSL Community to individuals who have brought significant innovation to open spatial data science. It honours those who have pushed the boundaries of open source software for SDS and offered their ideas transformed into tools to the wider community.
 
-::: {.callout-tip}
+<!-- ::: {.callout-tip}
 # Nominations are open
 
 The nominations for 2026 Award are open. Please submit your nominations using the [nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeG_rb8Zldf-HQ_WCDhWYM2qp4NAmoGZHWXPItXQ_k2LcycVA/viewform?usp=dialog) by the end of May 2026.
-:::
+::: -->
 
 ## Lorena Cristina Abad Crespo
 
@@ -38,11 +38,11 @@ The Call for Nominations will be opened yearly for a month to gather nominations
 
 The nominations will be evaluated by the SDSL Steering Committee, and the winner will be chosen by the Committee's consensus.
 
-::: {.callout-tip}
+<!-- ::: {.callout-tip}
 # Nominations are open
 
 The nominations for 2026 Award are open. Please submit your nominations using the [nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeG_rb8Zldf-HQ_WCDhWYM2qp4NAmoGZHWXPItXQ_k2LcycVA/viewform?usp=dialog) by the end of May 2026.
-:::
+::: -->
 
 ## Winner
 
