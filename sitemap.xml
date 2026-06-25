@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://spatial-data-science.github.io/reports.html</loc>
-    <lastmod>2026-05-03T07:56:21.947Z</lastmod>
+    <loc>https://spatial-data-science.github.io/index.html</loc>
+    <lastmod>2026-06-25T13:32:47.108Z</lastmod>
   </url>
   <url>
     <loc>https://spatial-data-science.github.io/award.html</loc>
-    <lastmod>2026-05-03T07:56:21.941Z</lastmod>
+    <lastmod>2026-06-25T13:32:47.107Z</lastmod>
   </url>
   <url>
-    <loc>https://spatial-data-science.github.io/governance.html</loc>
-    <lastmod>2026-05-03T07:56:21.941Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spatial-data-science.github.io/index.html</loc>
-    <lastmod>2026-05-03T07:56:21.942Z</lastmod>
+    <loc>https://spatial-data-science.github.io/reports.html</loc>
+    <lastmod>2026-06-25T13:32:47.114Z</lastmod>
   </url>
   <url>
     <loc>https://spatial-data-science.github.io/workshops.html</loc>
-    <lastmod>2026-05-03T07:56:21.948Z</lastmod>
+    <lastmod>2026-06-25T13:32:47.114Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spatial-data-science.github.io/governance.html</loc>
+    <lastmod>2026-06-25T13:32:47.107Z</lastmod>
   </url>
 </urlset>
