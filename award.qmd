@@ -47,3 +47,15 @@ The nominations for 2026 Award are open. Please submit your nominations using th
 ## Winner
 
 The winner will be announced at the annual SDSL Workshop, receive a certificate and a mention on the SDSL website. A travel stipend, when available, will be awarded to the winner(s) of the award to attend the Workshop.
+
+# Past winners
+
+## 2026 - Levi John Wolf
+
+_[Levi John Wolf](https://www.ljwolf.org) is a central figure in open spatial data science, transforming innovative ideas into widely used, community-owned tools. As a core contributor to [GeoPandas](https://geopandas.org) and [PySAL](https://pysal.org), he helps sustain the global infrastructure that underpins the field, while ensuring that new methods are openly available, reproducible, and reusable._
+
+_Beyond software, he shapes the discipline through innovative and robust research, teaching, open resources, and initiatives such as the award‑winning [GLaD podcast](https://gladpodcast.podbean.com), fostering a collaborative and inclusive community._
+
+_Levi embodies the values of openness, precision, and generosity that define this award, making a sustained and exceptional contribution to building and supporting the spatial data science community._
+
+(excerpt from the nomination)
